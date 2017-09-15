@@ -82,42 +82,46 @@
 <div id="product" class="bg-1">
   <div class="container text-center">
 
-  <h3>THE BAND</h3>
-  <p><em>We love music!</em></p>
-  <p>We have created a fictional band website. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+  <h3>Why you should use ou service?</h3>
+  <p><em>We have the best choice for choosing glasses for you.</em></p>
+
   <br>
   <div class="row">
     <div class="col-sm-4">
-      <p class="text-center"><strong>Name</strong></p><br>
+      <p class="text-center"><strong>We have many glasses frame shape.</strong></p><br>
       <a href="#demo" data-toggle="collapse">
         <img src="img/small1.jpg" class="img-circle person" alt="Random Name" width="255" height="255">
       </a>
       <div id="demo" class="collapse">
-        <p>Guitarist and Lead Vocalist</p>
-        <p>Loves long walks on the beach</p>
-        <p>Member since 1988</p>
+        <p>Square</p>
+        <p>Round</p>
+        <p>Aviator</p>
+        <p>Clubmaster</p>
+        <p>Nerd</p>
+        <p>Vintage</p>
+
       </div>
     </div>
     <div class="col-sm-4">
-      <p class="text-center"><strong>Name</strong></p><br>
+      <p class="text-center"><strong>We have many popular glasses brand</strong></p><br>
       <a href="#demo2" data-toggle="collapse">
         <img src="img/small2.jpg" class="img-circle person" alt="Random Name" width="255" height="255">
       </a>
       <div id="demo2" class="collapse">
-        <p>Drummer</p>
-        <p>Loves drummin'</p>
-        <p>Member since 1988</p>
+        <p>Hoya</p>
+        <p>Ray-Ban</p>
+        <p></p>
       </div>
     </div>
     <div class="col-sm-4">
-      <p class="text-center"><strong>Name</strong></p><br>
+      <p class="text-center"><strong>We have quality information about glasses.</strong></p><br>
       <a href="#demo3" data-toggle="collapse">
         <img src="img/small3.jpg" class="img-circle person" alt="Random Name" width="255" height="255">
       </a>
       <div id="demo3" class="collapse">
-        <p>Bass player</p>
-        <p>Loves math</p>
-        <p>Member since 2005</p>
+        <p>Glasses Detail</p>
+        <p>Accessories for glasses</p>
+        <p>All about eyes</p>
       </div>
     </div>
   </div>
