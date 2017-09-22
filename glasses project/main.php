@@ -133,9 +133,9 @@
     <h3 class="text-center">Infomation </h3>
     <p class="text-center">Express all facets of your personality with our high-quality, affordable glasses and sunglasses. </p>  
   <div class="row">
-    <div class="col-sm-4">
+    <div class="col-sm-6">
       <div class="panel panel-primary">
-        <div class="panel-heading" >Glasses Detail</div>           
+        <div class="panel-heading" >About Glasses</div>           
         <div class="panel-body"><img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="glasses detail">
         </div> <!--width="" height=""-->
 
@@ -144,28 +144,20 @@
       </div>
     </div>
 
-    <div class="col-sm-4"> 
+    <div class="col-sm-6"> 
       <div class="panel panel-danger">
-        <div class="panel-heading">Accessories for glasses</div>
-        <div class="panel-body"><img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image"></div>
-        <div class="panel-footer">Buy 50 mobiles and get a gift card</div>
-        <a href="#"><button type="button" class="btn btn-primary btn-block">Button 1</button> </a>
-      </div>
-    </div>
-
-    <div class="col-sm-4"> 
-      <div class="panel panel-success">
         <div class="panel-heading">Glasses Brand</div>
         <div class="panel-body"><img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image"></div>
         <div class="panel-footer">Buy 50 mobiles and get a gift card</div>
         <a href="#"><button type="button" class="btn btn-primary btn-block">Button 1</button> </a>
       </div>
     </div>
+
   </div>
 <br>
    
   <div class="row">
-    <div class="col-sm-4">
+    <div class="col-sm-6">
       <div class="panel panel-primary">
         <div class="panel-heading">Eye Diseases</div>
         <div class="panel-body"><img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image"></div>
@@ -174,23 +166,15 @@
       </div>
     </div>
 
-    <div class="col-sm-4"> 
+    <div class="col-sm-6"> 
       <div class="panel panel-danger">
-        <div class="panel-heading">BLACK FRIDAY DEAL</div>
+        <div class="panel-heading">Take Care your eyes</div>
         <div class="panel-body"><img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image"></div>
         <div class="panel-footer">Buy 50 mobiles and get a gift card</div>
         <a href="#"><button type="button" class="btn btn-primary btn-block">Button 1</button> </a>
       </div>
     </div>
 
-    <div class="col-sm-4"> 
-      <div class="panel panel-success">
-        <div class="panel-heading">BLACK FRIDAY DEAL</div>
-        <div class="panel-body"><img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image"></div>
-        <div class="panel-footer">Buy 50 mobiles and get a gift card</div>
-        <a href="#"><button type="button" class="btn btn-primary btn-block">Button 1</button> </a>
-      </div>
-    </div>
   </div>
 </div><br><br>
 
