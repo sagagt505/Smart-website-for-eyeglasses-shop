@@ -37,9 +37,12 @@ def matrix_factorization(R, P, Q, K=2, steps=5000, alpha=0.0002, beta=0.02, tol=
             break
     return P, Q.T
 
+R = np.array([[0,0,0,0,0,0],  # user 1
+              [0,0,0,0,0,0]]) # user 2
+"""
 R = np.array([[5,2,0,0,7,4],  # user 1
               [5,0,11,0,4,7]]) # user 2
-
+"""
 n, m = R.shape
 K = 2 # latent variable
 
@@ -49,6 +52,7 @@ P, Q = matrix_factorization(R, P, Q, K)
 Rhat = np.dot(P, Q.T)
 
 print Rhat
-
+print 
 print P
+print
 print Q
